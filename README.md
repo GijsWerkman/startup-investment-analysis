@@ -13,7 +13,6 @@ This repository contains the following files:
 - **Presentation.pptx**: This presentation summarizes the findings of our data analysis, including methodology, results, and conclusions.
 
 # My contribution
-I primarily contributed to the data engineering tasks within question1.ipynb, the Random Forest model in question2.ipynb, and the final presentation.
+Our project culminated in several robust predictive models, with Lasso regression emerging as the top performer on our evaluation metrics, supported by rigorous data engineering and exploration.
 
-# Results
-For our code and presentation we received a grade of 8/10.
+**Grade:** 8 / 10

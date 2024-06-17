@@ -6,6 +6,7 @@ Our project was comprised of two main stages:
 2. Predictive Modelling: We built and compared various models, including K-Nearest Neighbors (K-NN), Lasso Regression, Random Forests, and LightGBM, to predict total startup funding as accurately as possible.
    
 # Files
+This repository contains the following files:
 - **Project data.7z**: This compressed file contains the original datasets used in the project. Decompressing it is necessary to run the code.
 - **question1.ipynb**: This Jupyter Notebook focuses on data engineering and visualization tasks.
 - **question2.ipynb**: This Jupyter Notebook explores the different modeling techniques used in the project.

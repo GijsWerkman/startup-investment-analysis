@@ -3,7 +3,7 @@ This repository contains the Python code, data, and presentation for a group pro
 # Project overview
 Our project was comprised of two main stages:
 1. Data Engineering and Exploration: We cleaned and prepared the data for analysis, identified key trends and patterns, and created visualizations to communicate our findings effectively.
-2. Predictive Modelling: We built and compared various models, including K-Nearest Neighbors (K-NN), Lasso Regression, Random Forests, and LightGBM, to predict total startup funding as accurately as possible.
+2. Predictive Machine Learning: We built and compared various models, including K-Nearest Neighbors (K-NN), Lasso Regression, Random Forests, and LightGBM, to predict total startup funding as accurately as possible.
    
 # Files
 This repository contains the following files:

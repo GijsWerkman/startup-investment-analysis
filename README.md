@@ -12,7 +12,7 @@ The project involved analyzing a real-world dataset in a group setting. We focus
 - **Presentation.pptx**: This presentation summarizes the findings of the data analysis, including methodology, results, and conclusions.  
 
 # My contribution
-I primarily contributed to the data engineering tasks (question1.py) and the implementation of random forest models (question2.py).
+I primarily contributed to the data engineering tasks (question1.py) and the implementation of the random forest model (question2.py).
 
 # Results
 For our code and presentation we received a grade of 8/10.

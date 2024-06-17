@@ -1,18 +1,18 @@
-This repository contains the code and data used for a group project completed as part of the MScBA in Business Analytics & Management program (February - April 2024).
+This repository contains the code, data, and presentation for a group project completed as part of the MScBA in Business Analytics & Management program (February - April 2024). We analyzed investment rounds and acquisitions of real startups from 1995 to 2014, aiming to predict their total funding.
 
 # Project overview
-The project involved analyzing a real-world dataset in a group setting. We focused on two main aspects:
-1. **Data Cleaning, Exploration, and Visualization**: We prepared the data for analysis, identified key trends and patterns, and created visualizations to communicate our findings.
-2. **Model Building and Comparison**: We built and compared different models, including multiple linear regression, random forests, and gradient boosting, to uncover deeper insights from the data.
-
+Our project was comprised of two main stages:
+1. Data Engineering and Exploration: We cleaned and prepared the data for analysis, identified key trends and patterns, and created visualizations to communicate our findings effectively.
+2. Predictive Modelling: We built and compared various models, including K-Nearest Neighbors (K-NN), Lasso Regression, Random Forests, and LightGBM, to predict total startup funding as accurately as possible.
+   
 # Files
-- **Project data.7z**: This compressed file contains the original dataset used for the analysis. Decompression is required to run the code.
-- **question1.ipynb**: This script focuses on data engineering and visualization tasks.
-- **question2.ipynb**: This script explores various modeling techniques for the project.
-- **Presentation.pptx**: This presentation summarizes the findings of the data analysis, including methodology, results, and conclusions.  
+- **Project data.7z**: This compressed file contains the original datasets used in the project. Decompressing it is necessary to run the code.
+- **question1.ipynb**: This Jupyter Notebook focuses on data engineering and visualization tasks.
+- **question2.ipynb**: This Jupyter Notebook explores the different modeling techniques used in the project.
+- **Presentation.pptx**: This presentation summarizes the findings of our data analysis, including methodology, results, and conclusions.
 
 # My contribution
-I primarily contributed to the data engineering tasks (question1.py) and the implementation of the random forest model (question2.py).
+I primarily contributed to the data engineering tasks within question1.ipynb, the Random Forest model in question2.ipynb, and the final presentation.
 
 # Results
 For our code and presentation we received a grade of 8/10.

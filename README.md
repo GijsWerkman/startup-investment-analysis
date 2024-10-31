@@ -1,4 +1,4 @@
-This repository contains the Python code, data, and presentation for a group project completed as part of the MScBA in Business Analytics & Management program (February - April 2024). The project, undertaken for the Business Analytics Applications with Python course, analyzed investment rounds and acquisitions of real startups from 1995 to 2014. Our goal was to develop a model to predict their total funding.
+This repository contains the Python code, data, and presentation for a group project completed as part of the MScBA in Business Analytics & Management program at the Erasmus University Rotterdam. The project, undertaken for the Business Analytics Applications with Python course (February - April 2024), analyzed investment rounds and acquisitions of real startups from 1995 to 2014. Our goal was to develop a model to predict their total funding.
 
 # Project overview
 Our project was comprised of two main stages:
@@ -14,5 +14,3 @@ This repository contains the following files:
 
 # My contribution
 Our project culminated in several robust predictive models, with Lasso regression emerging as the top performer on our evaluation metrics, supported by rigorous data engineering and exploration.
-
-**Grade:** 8 / 10
